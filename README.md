@@ -1,4 +1,4 @@
-# web.developer <img src="https://raw.githubusercontent.com/gabrielndr/web.developer/master/webdeveloper.png" align="right" title="web.developer" alt="web.developer" width="350">
+# web.developer <img src="https://raw.githubusercontent.com/whoamindx/web.developer/master/webdeveloper.png" align="right" title="web.developer" alt="web.developer" width="350">
 > 💻 View web developer name in the application console
 
 Place your signature on the websites / apps you were the developer for using the web.developer() function
