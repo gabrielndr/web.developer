@@ -11,5 +11,5 @@ window.WebDevName = 'Thomas Smith'
 window.WebSiteDevURL = 'https://user.github.io 🚀'
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielndr/web.developer/master/usage.gif" title="web.developer usage" alt="web.developer usage">
+  <img src="https://raw.githubusercontent.com/whoamindx/web.developer/master/usage.gif" title="web.developer usage" alt="web.developer usage">
 </p>
